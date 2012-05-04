@@ -16,6 +16,7 @@ class CheeseCommand(object):
 							Template("cries, it was $cheese caused his wife to leave him. $name is barred"),
 							Template("demands cash up front before giving $name a slither of $cheese"),
 							Template("throws a pound of $cheese at $name. 'That is for Britain', he shouts."),
+							Template("is read to give it all up and move to France, living off $cheese."),
 							Template("empties his pockets, and a musty lump of $cheese falls out. $name snaffles it up."),
 							Template("peels back the wax paper from the $cheese. Powers it across the bar to $name.") ]
 
